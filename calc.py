@@ -65,7 +65,7 @@ class Window(QMainWindow):
     def calc_sats(self):
         try:
                 
-                api_key = '714d39b1-ec99-4397-8d28-894204edeb16'
+                api_key = 'YOUR API KEY GOES HERE'
                 api_url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
                 headers = {
                     "Accepts" : 'application/json',

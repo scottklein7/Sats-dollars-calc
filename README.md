@@ -12,4 +12,4 @@ A simple GUI app to convert U$D into Sats
 ![screenshot2](https://user-images.githubusercontent.com/81238878/147490009-0f13effe-2152-4d09-be66-ae7f3e358e8a.png)
 
 ## Getting Started
-For the code, get an api key, then with your file open type 'python3 calc.py'
+Clone the the code, get an api key, then with your file open type 'python3 calc.py', and check that conversion rate!
